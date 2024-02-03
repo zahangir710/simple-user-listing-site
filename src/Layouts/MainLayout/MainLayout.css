@@ -1,0 +1,15 @@
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 12fr;
+}
+
+.sidebar {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
